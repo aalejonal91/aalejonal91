@@ -2,6 +2,8 @@
 
  :technologist: Alejandro Castro | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> linkedin.com/in/alejandro-castro-6456081b4/ | 🌱 Medellín, Colombia |
  ### Hi there, I'm Alejandro Castro 👋 
+![github](https://github.com/aalejonal91/Imagesandgif_proyects/blob/6dfc56de0b879327815a45dca30eb02deadfe735/fondo-github%20(1).png)
+
 -----------------------------------------------------------------------
 I am an industrial engineer determined to be a professional developer and seek excellence through projects in which I can participate. discovered a powerful and exciting enthusiasm for mobile development from 2022
 
