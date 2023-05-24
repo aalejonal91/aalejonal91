@@ -9,10 +9,16 @@ I am an industrial engineer determined to be a professional developer and seek e
 
 Skills: FLUTTER/DART/MOBILEAPPS/PYTHON
 
-- 🔭 I’m currently working on opportunities to collaborate and portfolio creation to showcase my work 
+- 💼 I’m currently working on opportunities to collaborate and portfolio creation to showcase my work 
 - 📫 How to reach me: aalejonal91@gmail.com 
-- 🤔 I’m looking for help with Hone all possible effects in flutter 
+- ✍️ I’m looking for help with Hone all possible effects in flutter 
 - 😄 Pronouns: him/he  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alejandro-castro-6456081b4/)  
+ ### Connect With Me
+ <a href = https://www.linkedin.com/in/alejandro-castro-6456081b4/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'>
+ 
+
+
+
+
 
