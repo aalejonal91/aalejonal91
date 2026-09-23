@@ -1,4 +1,4 @@
-## :brain:  Industrial Engineer/ DATA ENGINEER /Mobile APP ENTHUSIAST
+## :brain:  Industrial Engineer/ Data and Mobile Apps Enthusiast
 
  :technologist: Alejandro Castro | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> linkedin.com/in/alejandro-castro-6456081b4/ | 🌱 Medellín, Colombia |
  ### Hi there, I'm Alejandro Castro 👋 
